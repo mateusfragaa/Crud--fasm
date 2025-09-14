@@ -1,8 +1,18 @@
-# Crud--fasm
-Esse crud foi uma aplicação proposta em sala de aula, na qual o conteúdo era uma introdução na programação de PHP+ MYSQL.
-🛠️ – Tecnologias usadas no projeto:
-  🐘 - PHP para a interação com o banco de dados, regras da aplicação e para páginas mais dinâmicas.
-  💾 - MYSQL para armazenamento de dados juntamente com SQL para consultas.
-  🎨 - BOOTSTRAP, CSS usados para deixar a interface mais agradável ao usuário.
-  🌐 - HTML usado para estruturar páginas e conectar com links
-  ⚡ - JAVASCRIPT foi usado para uma pequena lógica na aplicação para retorno de mensagens
+# CRUD – FASM
+
+Este CRUD foi desenvolvido como uma aplicação proposta em sala de aula, com o objetivo de introduzir conceitos básicos de programação em **PHP + MySQL**.
+
+🛠️ **Tecnologias usadas no projeto:**
+
+- 🐘 **PHP** – utilizado para a interação com o banco de dados, regras da aplicação e criação de páginas dinâmicas.  
+- 💾 **MySQL** – utilizado para armazenamento de dados, juntamente com **SQL** para consultas.  
+- 🎨 **Bootstrap e CSS** – usados para tornar a interface mais agradável e intuitiva para o usuário.  
+- 🌐 **HTML** – usado para estruturar as páginas e conectar links.  
+- ⚡ **JavaScript** – utilizado para pequenas lógicas na aplicação, como exibição de mensagens e interatividade.
+  
+## ⚙️ Instalação
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/mateusfragaa/crud--fasm.git
