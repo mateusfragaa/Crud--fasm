@@ -1,13 +1,13 @@
 <?php
 class Conexao {
-    private $dbname = "phpBasico2025";
-    private $root = "root";
+    private $dbname = "";
+    private $root = "";
     private $password = "";
 
     public function conecte() {
         try {
             $conexao = new PDO(
-                "mysql:host=localhost;dbname=$this->dbname",
+                "mysql:host=;dbname=$this->dbname",
                 $this->root,
                 $this->password
             );
