@@ -72,7 +72,7 @@
                 </main>
 
                 <footer>
-                    <span>&copy; 2025 - PHP Básico (4º Período) Professor Aldecir Fonseca | Todos os direitos reservados</span>
+                    <span>&copy; 2025 - ADS PHP Básico (4º Período) | Todos os direitos reservados</span>
                 </footer>
             </div>
 
